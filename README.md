@@ -11,16 +11,16 @@
 
 ## 🚀 About Me
 
-I'm a 3rd-year AI/ML student shipping production-grade LLM systems — not just running notebooks.
+I'm a 3rd-year AI/ML student shipping production-grade LLM systems - not just running notebooks.
 
 Currently building at **DreamStorey** (agentic URL parser with DSPy, React + FastAPI features).  
 My work spans agentic RAG, LLM fine-tuning, neural recommendation, cross-lingual knowledge graphs, and computer vision.
 
 - 🔬 **Current focus**: Agentic LLM systems · RAG pipelines · LLM fine-tuning (LoRA) · GNNs
 - 🛠️ **At work**: DSPy · LangChain · FastAPI · React · PostgreSQL
-- 🎯 **Open to**: AI / ML / SWE / MLOps internships — roles where the work ships to real users
-- 🏆 **AIR 33** — NEC 2025, IIT Bombay (top 1% out of 4,000+ teams)
-- 🏅 **National Finalist** — Product Construct '26, IIT Madras
+- 🎯 **Open to**: AI / ML / SWE / MLOps internships - roles where the work ships to real users
+- 🏆 **AIR 33** - NEC 2025, IIT Bombay (top 1% out of 4,000+ teams)
+- 🏅 **National Finalist** - Product Construct '26, IIT Madras
 
 ---
 
@@ -82,10 +82,10 @@ AI-powered agricultural assistant for crop recommendations and yield predictions
 
 | | |
 |---|---|
-| 🥇 | **AIR 33** — NEC 2025, IIT Bombay E-Summit (4,000+ teams, top 1%) |
-| 🥈 | **National Finalist** — Product Construct '26, IIT Madras × Hotelzify |
-| 🎓 | **CGPA 8.54** — B.E. AI/ML, Visvesvaraya Technological University |
-| 💼 | **President** — E-Cell Atria IT (150+ participants, 25+ member team) |
+| 🥇 | **AIR 33** - NEC 2025, IIT Bombay E-Summit (4,000+ teams, top 1%) |
+| 🥈 | **National Finalist** - Product Construct '26, IIT Madras × Hotelzify |
+| 🎓 | **CGPA 8.54** - B.E. AI/ML, Visvesvaraya Technological University |
+| 💼 | **President** - E-Cell Atria IT (150+ participants, 25+ member team) |
 
 ---
 
