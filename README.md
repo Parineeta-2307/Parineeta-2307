@@ -16,15 +16,15 @@ I'm a 3rd-year AI/ML student shipping production-grade LLM systems.
 Currently building at **DreamStorey** (agentic URL parser with DSPy, React + FastAPI features).  
 My work spans agentic RAG, LLM fine-tuning, neural recommendation, cross-lingual knowledge graphs, and computer vision.
 
-- 🔬 **Current focus**: Agentic LLM systems · RAG pipelines · LLM fine-tuning (LoRA) · GNNs
-- 🛠️ **At work**: DSPy · LangChain · FastAPI · React · PostgreSQL
-- 🎯 **Open to**: AI / ML / SWE / MLOps internships - roles where the work ships to real users!
-- 🏆 **AIR 33** - NEC 2025, IIT Bombay (top 1% out of 4,000+ teams)
-- 🏅 **National Finalist** - Product Construct '26, IIT Madras
+- **Current focus**: Agentic LLM systems · RAG pipelines · LLM fine-tuning (LoRA) · GNNs
+- **At work**: DSPy · LangChain · FastAPI · React · PostgreSQL
+- **Open to**: AI / ML / SWE / MLOps internships - roles where the work ships to real users!
+- **AIR 33** - NEC 2025, IIT Bombay (top 1% out of 4,000+ teams)
+- **National Finalist** - Product Construct '26, IIT Madras
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
 ### [1. Agentic RAG with LoRA Fine-tuning](https://github.com/Parineeta-2307/Agentic-RAG-System-with-LoRA-Fine-tuning-for-Enterprise-Document-Q-A)
 End-to-end agentic RAG for enterprise document Q&A. Fine-tuned Phi-3 Mini via LoRA, benchmarked 6 retrieval configs (hybrid FAISS + BM25 with RRF), implemented ReAct-style agentic tool selection, and evaluated with RAGAS metrics.  
@@ -78,7 +78,7 @@ AI-powered agricultural assistant for crop recommendations and yield predictions
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
 | | |
 |---|---|
