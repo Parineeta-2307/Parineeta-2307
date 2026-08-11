@@ -11,9 +11,9 @@
 
 ## 🚀 About Me
 
-I'm a 3rd-year AI/ML student shipping production-grade LLM systems.
+I'm a final year AI/ML student shipping production-grade LLM systems.
 
-Currently building at **DreamStorey** (agentic URL parser with DSPy, React + FastAPI features).  
+Ex- intern at **DreamStorey** where I was building agentic URL parser with DSPy, React + FastAPI features.  
 My work spans agentic RAG, LLM fine-tuning, neural recommendation, cross-lingual knowledge graphs, and computer vision.
 
 - **Current focus**: Agentic LLM systems · RAG pipelines · LLM fine-tuning (LoRA) · GNNs
