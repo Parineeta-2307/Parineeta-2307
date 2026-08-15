@@ -9,6 +9,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Parineeta-2307)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Parineeta_R/)
 
+![snake gif](https://raw.githubusercontent.com/Parineeta-2307/Parineeta-2307/snake-output/github-contribution-grid-snake-dark.svg)
+
 </div>
 
 ---
@@ -27,23 +29,23 @@ I'm a final-year AI/ML student who ships production-grade LLM systems.
 
 ---
 
-## 📊 Stats & Streaks
+## Stats & Streaks
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Parineeta-2307&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Parineeta-2307&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats-oxjvvw2em-parineeta-2307s-projects.vercel.app/api?username=Parineeta-2307&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://streak-stats.demolab.com/?user=Parineeta-2307&theme=tokyonight&hide_border=true" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parineeta-2307&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats-oxjvvw2em-parineeta-2307s-projects.vercel.app/api/top-langs/?username=Parineeta-2307&layout=compact&theme=tokyonight&hide_border=true" />
 <img height="165" src="https://leetcard.jacoblin.cool/Parineeta_R?theme=dark&font=baloo&extension=activity" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=Parineeta-2307&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Parineeta-2307&theme=tokyonight&no-frame=true&row=1&column=6" />
 
 </div>
 
 ---
 
-## 🧩 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
@@ -120,7 +122,13 @@ AI-powered agricultural assistant for crop recommendations and yield predictions
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-`DSPy` `FAISS` `PEFT (LoRA)` `RAGAS` `sentence-transformers` `llama.cpp` `YOLOv8`
+![FAISS](https://img.shields.io/badge/FAISS-0668E1?style=flat-square&logo=meta&logoColor=white)
+![DSPy](https://img.shields.io/badge/DSPy-7C3AED?style=flat-square&logoColor=white)
+![PEFT (LoRA)](https://img.shields.io/badge/PEFT_(LoRA)-7C3AED?style=flat-square&logoColor=white)
+![RAGAS](https://img.shields.io/badge/RAGAS-7C3AED?style=flat-square&logoColor=white)
+![sentence-transformers](https://img.shields.io/badge/sentence--transformers-7C3AED?style=flat-square&logoColor=white)
+![llama.cpp](https://img.shields.io/badge/llama.cpp-7C3AED?style=flat-square&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-7C3AED?style=flat-square&logoColor=white)
 
 **Web & Backend**
 
