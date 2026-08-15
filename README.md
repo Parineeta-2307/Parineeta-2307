@@ -29,22 +29,6 @@ I'm a final-year AI/ML student who ships production-grade LLM systems.
 
 ---
 
-## Stats & Streaks
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats-oxjvvw2em-parineeta-2307s-projects.vercel.app/api?username=Parineeta-2307&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://streak-stats.demolab.com/?user=Parineeta-2307&theme=tokyonight&hide_border=true" />
-
-<img height="165" src="https://github-readme-stats-oxjvvw2em-parineeta-2307s-projects.vercel.app/api/top-langs/?username=Parineeta-2307&layout=compact&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://leetcard.jacoblin.cool/Parineeta_R?theme=dark&font=baloo&extension=activity" />
-
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Parineeta-2307&theme=tokyonight&no-frame=true&row=1&column=6" />
-
-</div>
-
----
-
 ## Featured Projects
 
 <table>
@@ -137,7 +121,8 @@ AI-powered agricultural assistant for crop recommendations and yield predictions
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-`REST APIs` `SQLite`
+![REST APIs](https://img.shields.io/badge/REST_APIs-7C3AED?style=flat-square&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-7C3AED?style=flat-square&logoColor=white)
 
 **Cloud & Tools**
 
@@ -145,7 +130,8 @@ AI-powered agricultural assistant for crop recommendations and yield predictions
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-`Vertex AI` `Streamlit`
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-7C3AED?style=flat-square&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-7C3AED?style=flat-square&logoColor=white)
 
 ---
 
