@@ -153,6 +153,6 @@ AI-powered agricultural assistant for crop recommendations and yield predictions
 
 I'm always up to talk about LLMs, RAG architectures, agentic systems, or anything you're building.
 
-📧 parineetarana1@gmail.com &nbsp;·&nbsp; 🔗 [LinkedIn](https://linkedin.com/in/parineeta-rana)
+🔗 [PortFolio](https://portfolio-parineetarana.vercel.app/)   &nbsp; &nbsp; &nbsp;  📧 parineetarana1@gmail.com &nbsp; &nbsp; &nbsp; 🔗 [LinkedIn](https://linkedin.com/in/parineeta-rana)
 
 </div>
