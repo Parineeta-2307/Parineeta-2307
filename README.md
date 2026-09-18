@@ -2,11 +2,12 @@
 
 # Hi, I'm Parineeta 👋
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer+%C2%B7+Agentic+LLM+Pipelines;RAG+Systems+%2B+Neural+Recommenders;Final+Year+%40+VTU+%C2%B7+Ex-Intern+%40+DreamStorey" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer+%C2%B7+Agentic+LLM+Pipelines;RAG+Systems+%2[...]
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/parineeta-rana)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parineetarana1@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Parineeta-2307)
+[![Take U Forward](https://img.shields.io/badge/TakeUForward-Profile-FF7A00?style=for-the-badge&logo=book&logoColor=white)](https://takeuforward.org/profile/xyyz)
 
 ![snake gif](https://raw.githubusercontent.com/Parineeta-2307/Parineeta-2307/snake-output/github-contribution-grid-snake-dark.svg)
 
@@ -35,7 +36,7 @@ I'm a final-year AI/ML student who ships production-grade LLM systems.
 <td width="50%" valign="top">
 
 ### 🤖 [Agentic RAG with LoRA Fine-tuning](https://github.com/Parineeta-2307/Agentic-RAG-System-with-LoRA-Fine-tuning-for-Enterprise-Document-Q-A)
-End-to-end agentic RAG for enterprise document Q&A. Fine-tuned Phi-3 Mini via LoRA, benchmarked 6 retrieval configs (hybrid FAISS + BM25 with RRF), implemented ReAct-style agentic tool selection, evaluated with RAGAS metrics.
+End-to-end agentic RAG for enterprise document Q&A. Fine-tuned Phi-3 Mini via LoRA, benchmarked 6 retrieval configs (hybrid FAISS + BM25 with RRF), implemented ReAct-style agentic tool selection, [...]
 
 `Python` `LoRA` `FAISS` `LangChain` `RAGAS` `Streamlit`
 
