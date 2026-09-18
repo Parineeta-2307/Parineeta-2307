@@ -2,7 +2,7 @@
 
 # Hi, I'm Parineeta 👋
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer+%C2%B7+Agentic+LLM+Pipelines;RAG+Systems+%2[...]
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer+%C2%B7+Agentic+LLM+Pipelines;RAG+Systems+%C2%B7+Fine-Tuning;LLM+Applications+%C2%B7+Agentic+Workflows" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/parineeta-rana)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parineetarana1@gmail.com)
