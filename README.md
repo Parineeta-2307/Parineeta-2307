@@ -24,17 +24,9 @@ Lead a 25-member team. Led the college team to AIR 33 of 4,000+ at NEC 2025, IIT
 Document Q&A over Atlassian docs. Compared 6 RAG variants and found BM25 (78.4% Recall@5) beat hybrid (71.6%) and dense (59.2%), traced to MiniLM truncating 89% of chunks. Fine-tuned Phi-3 Mini with QLoRA.
 `Python` `FAISS` `BM25` `sentence-transformers` `PEFT` `Streamlit`
 
-**[Retail Shelf Monitoring](https://github.com/Parineeta-2307/object-detection-yolov8)** · YOLOv8
+**[Retail Shelf Monitoring](https://github.com/Parineeta-2307/object-detection)** · YOLOv8
 Flags low-stock shelf sections from photos and video. YOLOv8n fine-tuned on SKU-110K: 0.872 mAP@50, 133 ms per image on a laptop CPU.
 `YOLOv8` `OpenCV` `Streamlit`
-
-**[FlowSense](https://github.com/Parineeta-2307/Two-Tower-Neural-Recommendation-System-for-Developer-Workflow-Discovery)** · Two-tower workflow recommender
-Recommends developer workflows from activity patterns. nDCG@10 0.9711 vs 0.2639 random and 0.11 ms retrieval, on synthetic developer profiles.
-`PyTorch` `FAISS` `sentence-transformers` `SQLite`
-
-**[Cross-lingual Knowledge Graph Completion](https://github.com/Parineeta-2307/Cross-lingual-Knowledge-Graph-Completion-via-Relational-GNN)** · Relational GNN
-Aligns Wikidata graphs in German, Japanese and Dutch and predicts missing facts with an R-GCN and RotatE scorer. Evaluation in progress.
-`PyTorch Geometric` `HuggingFace` `FastAPI` `React`
 
 **[Supplier Compliance Dashboard](https://github.com/Parineeta-2307/supplier-compliance-dashboard)**
 Full-stack dashboard that pulls supplier and weather data and uses Gemini to flag compliance and disruption risk.
